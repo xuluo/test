@@ -1,3 +1,9 @@
 good morning
+<<<<<<< HEAD
 2nd changed luoxu
 added by master 
+=======
+2nd changed luoxu 
+insert one lin
+added by hot_fix
+>>>>>>> hot_fix
