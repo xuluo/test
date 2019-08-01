@@ -1,2 +1,8 @@
+<<<<<<< HEAD
 test local` conflict
 modify locally
+=======
+test conflict 
+remotely
+
+>>>>>>> 0453510cbfafbba2d2aeb8ad93dc470cc4ee668d
