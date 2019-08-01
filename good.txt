@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 test local` conflict
-=======
-test remote 哈哈哈
->>>>>>> 38a6085dd390576e2ae368ba64852be2178a4713
+modify locally
