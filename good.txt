@@ -7,3 +7,6 @@ added by master
 insert one lin
 added by hot_fix
 >>>>>>> hot_fix
+
+
+test conflict
