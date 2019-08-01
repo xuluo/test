@@ -8,4 +8,9 @@ insert one lin
 added by hot_fix
 >>>>>>> hot_fix
 
+<<<<<<< HEAD
 test local conflict
+=======
+
+test conflict
+>>>>>>> 6b1deb2a0226ee61973792a91d031e6b194677ad
